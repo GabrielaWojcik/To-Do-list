@@ -1,10 +1,5 @@
 {
-    const tasks = [
-        {
-            content: "nagrać ekcje",
-            done:false
-        },
-    ];
+    const tasks = [];
 
 
     const render = () => {
